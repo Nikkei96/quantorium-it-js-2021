@@ -18,3 +18,6 @@
 - git branch -M main
 - git remote add origin https://github.com/Nikkei96/quantorium-it-js-2021.git
 - git push -u origin main
+
+(Потом делаем)
+- git push
